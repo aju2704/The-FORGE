@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aju2704/The-FORGE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+![Image](https://github.com/arjunhari2704/The-FORGE.github.io/blob/master/photo_2017-08-03_22-17-13.jpg)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -21,9 +21,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/arjunhari2704/The-FORGE.github.io/blob/master/photo_2017-08-03_22-17-13.jpg)
+
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
